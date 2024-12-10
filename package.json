@@ -31,7 +31,7 @@
     "singleQuote": true,
     "trailingComma": "all"
   },
-  "name": "prisma-error-enum",
+  "name": "@boredland/prisma-error-enum",
   "author": "Vinicius Pacheco",
   "module": "dist/prisma-error-enum.esm.js",
   "size-limit": [
